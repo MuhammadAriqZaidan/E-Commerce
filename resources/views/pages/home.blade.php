@@ -149,7 +149,7 @@
               data-aos="fade-up"
               data-aos-delay="100"
             >
-              <a href="/detail.html" class="component-products d-block">
+              <a href="#" class="component-products d-block">
                 <div class="products-thumbnail">
                   <div
                     class="products-image"
@@ -165,7 +165,7 @@
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              <a href="/detail.html" class="component-products d-block">
+              <a href="#" class="component-products d-block">
                 <div class="products-thumbnail">
                   <div
                     class="products-image"
@@ -181,7 +181,7 @@
               data-aos="fade-up"
               data-aos-delay="300"
             >
-              <a href="/detail.html" class="component-products d-block">
+              <a href="#" class="component-products d-block">
                 <div class="products-thumbnail">
                   <div
                     class="products-image"
@@ -197,7 +197,7 @@
               data-aos="fade-up"
               data-aos-delay="400"
             >
-              <a href="/detail.html" class="component-products d-block">
+              <a href="#" class="component-products d-block">
                 <div class="products-thumbnail">
                   <div
                     class="products-image"
@@ -276,4 +276,5 @@
         </div>
       </section>
     </div>
-    @endsection
+
+@endsection
